@@ -41,13 +41,13 @@ Second, we offer the opportunity to present ideas without a paper submission. In
 ### Paper Submissions
 We solicit papers with 4 up to 10 pages (excluding references). Along the lines of this year’s call for papers of the main conference, we do not distinguish between full and short (or position) papers. Papers should be formatted in CEURART's single column template: tba.
 
-Submitted papers must not be under review in any other conference, workshop, or journal at the time of submission. Papers should be submitted through the workshop’s EasyChair page (tba). 
+Submitted papers must not be under review in any other conference, workshop, or journal at the time of submission. Papers should be submitted through the workshop’s EasyChair page at https://easychair.org/conferences/?conf=perspectives2022. 
 
 Submissions will undergo single-blind peer review by a minimum of three program committee members and will be selected based on quality, novelty, clarity, and relevance. Authors of accepted papers will be invited to present their work during the workshop and will be published as open access workshop proceedings via ceur-ws.org. At least one author of each accepted paper must attend the workshop and present the work.
 
 
 ### Abstract Submissions
-We solicit abstracts with 200-350 words, to be submitted through the workshop’s EasyChair page (tba).
+We solicit abstracts with 200-350 words, to be submitted through the workshop’s EasyChair EasyChair page at https://easychair.org/conferences/?conf=perspectives2022.
 
 The workshop organizers will select abstracts based on quality, clarity, relevance, and their potential to spark interesting discussion during the workshop. Authors of accepted abstracts will be invited to present their work during the workshop. 
 
