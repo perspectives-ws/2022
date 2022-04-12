@@ -22,7 +22,7 @@ Topics of interest include, but are not limited to, the following:
 * Divergence between evaluation goals and what is actually captured by the evaluation
 * Nontrivial and unexpected experiences from practitioners
 
-We deliberately solicit papers reporting problems and (negative) experiences regarding RS evaluation, as we consider the reflection on unsuccessful, inadequate or insufficient evaluations as a fruitful source for yet another perspective on RS evaluation that can spark discussions at the workshop. Accordingly, submissions may also address the following
+We deliberately solicit papers reporting problems and (negative) experiences regarding RS evaluation, as we consider the reflection on unsuccessful, inadequate or insufficient evaluations as a fruitful source for yet another perspective on RS evaluation that can spark discussions at the workshop. This also includes papers reporting negative study results. Accordingly, submissions may also address the following
 themes: 
 
 (a) “lessons learned” from the successful application of RS evaluation or from “post mortem” analyses describing specific evaluation strategies that failed to uncover decisive elements, <br> 
