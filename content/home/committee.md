@@ -23,7 +23,7 @@ title = "Program Committee"
 * Alejandro Bellogin (Universidad Autónoma de Madrid, Spain)
 * Toine Bogers (Aalborg University Copenhagen, Denmark)
 * Paolo Cremonesi (Politecnico di Milano, Italy)
-* Amra Delić (TU Wien, Austria)
+* Amra Delić (University of Sarajevo, Bosnia and Herzegovina)
 * Mehdi Elahi (University of Bergen, Norway)
 * Andrés Ferraro (McGill University & Mila (Quebec AI Institute), Canada)
 * Hanna Hauptmann (Utrecht University, The Netherlands)
