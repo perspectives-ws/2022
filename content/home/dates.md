@@ -15,6 +15,6 @@ title = "Important Dates"
 * Paper submission: July 29th, 2022 AoE
 * Author notification: August 19th, 2022
 * Camera-ready version: September 9th, 2022
-* Workshop (virtual): tba
-* Workshop (additional on-site meeting): tba
+* Workshop (virtual): tba (in scope of RecSys 2022, September 18--23, 2022)
+* Workshop (additional on-site meeting): tba (in scope of RecSys 2022, September 18--23, 2022)
 
