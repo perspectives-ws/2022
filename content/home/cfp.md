@@ -39,7 +39,11 @@ Second, we offer the opportunity to present ideas without a paper submission. In
 
 
 ### Paper Submissions
+<<<<<<< HEAD
 We solicit papers with 4 up to 12 pages (excluding references). Along the lines of this year’s call for papers of the main conference, we do not distinguish between full and short (or position) papers. Papers should be formatted in CEURART's single column template: tba.
+=======
+We solicit papers with 4 up to 10 pages (excluding references). Along the lines of this year’s call for papers of the main conference, we do not distinguish between full and short (or position) papers. Papers should be formatted in CEURART's single column template: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/.
+>>>>>>> 5b47b3900a26b08d0c942871bdfa800a90ca4d8d
 
 Submitted papers must not be under review in any other conference, workshop, or journal at the time of submission. Papers should be submitted through the workshop’s EasyChair page at https://easychair.org/conferences/?conf=perspectives2022. 
 
