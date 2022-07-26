@@ -12,7 +12,7 @@ title = "Important Dates"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-* Paper submission: July 29th, 2022 AoE
+* Paper submission: ~~July 29th, 2022 AoE~~ ***extended deadline: August, 4th 2022 AoE***
 * Author notification: August 19th, 2022
 * Camera-ready version: September 9th, 2022
 * Workshop (virtual): tba (in scope of RecSys 2022, September 18--23, 2022)
