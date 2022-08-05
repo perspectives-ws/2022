@@ -13,7 +13,7 @@ title = "Important Dates"
   columns = "1"
 +++
 * Paper submission: ~~July 29th, 2022 AoE~~ ***extended deadline: August, 4th 2022 AoE***
-* Author notification: August 19th, 2022
+* Author notification: August 26th, 2022
 * Camera-ready version: September 9th, 2022
 * Workshop (virtual): tba (in scope of RecSys 2022, September 18--23, 2022)
 * Workshop (additional on-site meeting): September 22, 2022 <!-- , 9:00- -17:30, Seattle, WA, USA -->  (in scope of RecSys 2022)
