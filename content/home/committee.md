@@ -26,6 +26,7 @@ title = "Program Committee"
 * Amra Delić (University of Sarajevo, Bosnia and Herzegovina)
 * Mehdi Elahi (University of Bergen, Norway)
 * Andrés Ferraro (McGill University & Mila (Quebec AI Institute), Canada)
+* Bruce Ferwerda (Jönköping University, Sweden)
 * Hanna Hauptmann (Utrecht University, The Netherlands)
 * Dietmar Jannach (AAU Klagenfurt, Austria)
 * Mesut Kaya (Aalborg University Copenhagen, Denmark)
@@ -35,6 +36,7 @@ title = "Program Committee"
 * Julia Neidhardt (TU Wien, Austria)
 * Maria Soledad Pera (Boise State University, USA)
 * Manel Slokom (TU Delft, The Netherlands)
+* Marko Tkalčič (University of Primorska, Slovenia)
 * Martijn C. Willemsen (Eindhoven University of Technology, The Netherlands)
 * Markus Zanker (Free University of Bozen-Bolzano, Italy)
 
@@ -45,6 +47,5 @@ title = "Program Committee"
 * Sandy Maniolos (Delft University of Technology, The Netherlands)
 * Ashlee Milton (Boise State University, USA)
 * Jessie Smith (University of Colorado, Boulder, USA)
-* Marko Tkalčič (University of Primorska, Slovenia)
 -->
                                                                                                                                                                  
