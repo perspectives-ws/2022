@@ -46,6 +46,6 @@ Lukas Wegmeth, Joeran Beel
 **Should Algorithm Evaluation Extend to Testing? We Think So**  
 Lien Michiels, Robin Verachtert, Kim Falk, Bart Goethals  
 
-**Multi-domain news recommender systems at Globo: challenges, approaches and evaluation metrics**  
+**Multi-domain news recommender systems at Globo: Challenges, Approaches and Evaluation Metrics**  
 Joel Pinho Lucas, Letícia Freire de Figueiredo, Felipe Alves Ferreira  
 
