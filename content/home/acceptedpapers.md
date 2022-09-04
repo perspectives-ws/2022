@@ -15,11 +15,37 @@ title = "Accepted Contributions"
 
 [All Teaser Videos](./videos) on a single page.
 
-*We continuously update this page with accepted papers and abstracts, and their videos.*
+*We continuously update this page with the teaser videos for the accepted contributions.*
 
-### Papers
+### Accepted Papers
+
+**Learning Choice Models for Simulating Users' Interactions with Recommender Systems**  
+Naieme Hazrati, Francesco Ricci  
+
+**Towards Comparing Recommendation to Multiple-Query Search Sessions for Talent Search**  
+Mesut Kaya, Toine Bogers  
+
 **Recommender Systems Are Not Everything: Towards a Broader Perspective in Recommender Evaluation**  
 Benedikt Loepp  
 [Video](./videos#recommender-systems-are-not-everything-towards-a-broader-perspective-in-recommender-evaluation)
 
-*To be continued...*
+**Diversifying Sentiments in News Recommendation**  
+Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Julia Neidhardt  
+
+**Are We Forgetting Something? Correctly Evaluate a Recommender System With an Optimal Training Window**  
+Robin Verachtert, Lien Michiels, Bart Goethals
+
+**CaMeLS: Cooperative Meta-Learning Service for Recommender Systems**  
+Lukas Wegmeth, Joeran Beel  
+
+
+
+
+### Accepted Abstracts
+
+**Should Algorithm Evaluation Extend to Testing? We Think So**  
+Lien Michiels, Robin Verachtert, Kim Falk, Bart Goethals  
+
+**Multi-domain news recommender systems at Globo: challenges, approaches and evaluation metrics**  
+Joel Pinho Lucas, Letícia Freire de Figueiredo, Felipe Alves Ferreira  
+
