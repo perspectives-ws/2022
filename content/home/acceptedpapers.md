@@ -33,7 +33,8 @@ Benedikt Loepp
 Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Julia Neidhardt  
 
 **Are We Forgetting Something? Correctly Evaluate a Recommender System With an Optimal Training Window**  
-Robin Verachtert, Lien Michiels, Bart Goethals
+Robin Verachtert, Lien Michiels, Bart Goethals  
+[Video](./videos#are-we-forgetting-something-correctly-evaluate-a-recommender-system-with-an-optimal-training-window)
 
 **CaMeLS: Cooperative Meta-Learning Service for Recommender Systems**  
 Lukas Wegmeth, Joeran Beel  
