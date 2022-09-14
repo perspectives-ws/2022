@@ -38,6 +38,7 @@ Robin Verachtert, Lien Michiels, Bart Goethals
 
 **CaMeLS: Cooperative Meta-Learning Service for Recommender Systems**  
 Lukas Wegmeth, Joeran Beel  
+[Video](./videos#camels-cooperative-meta-learning-service-for-recommender-systems)
 
 
 

@@ -23,10 +23,17 @@ Benedikt Loepp
 
 <br>
 
-## Are We Forgetting Something? Correctly Evaluate a Recommender System With an Optimal Training Window**  
+## Are We Forgetting Something? Correctly Evaluate a Recommender System With an Optimal Training Window  
 Robin Verachtert, Lien Michiels, Bart Goethals  
 {{< video library="1" src="Verachtert_AreWeForgettingSomething.mp4" controls="yes" width="200px" height="150px">}}  
 
 <br>
+
+## CaMeLS: Cooperative Meta-Learning Service for Recommender Systems  
+Lukas Wegmeth, Joeran Beel  
+{{< video library="1" src="wegmeth_camels.mp4" controls="yes" width="200px" height="150px">}}  
+
+<br>
+
 
 *To be continued...*
