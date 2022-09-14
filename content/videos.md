@@ -17,6 +17,12 @@ title = "Videos of Accepted Contributions"
 
 <br>
 
+## Towards Comparing Recommendation to Multiple-Query Search Sessions for Talent Search  
+Mesut Kaya, Toine Bogers  
+{{< video library="1" src="Kaya_Bogers_Perspectives_Teaser.mp4" controls="yes" width="200px" height="150px">}}  
+
+<br>
+
 ## Recommender Systems Are Not Everything: Towards a Broader Perspective in Recommender Evaluation  
 Benedikt Loepp  
 {{< youtube "gKY4BIb4nN8" >}}  
@@ -35,5 +41,10 @@ Lukas Wegmeth, Joeran Beel
 
 <br>
 
+## Should Algorithm Evaluation Extend to Testing? We Think So  
+Lien Michiels, Robin Verachtert, Kim Falk, Bart Goethals  
+{{< video library="1" src="Michiels_Should algorithm_evaluation_extend.mp4" controls="yes" width="200px" height="150px">}}  
+
+<br>
 
 *To be continued...*

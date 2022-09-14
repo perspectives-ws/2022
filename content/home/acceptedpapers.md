@@ -24,6 +24,8 @@ Naieme Hazrati, Francesco Ricci
 
 **Towards Comparing Recommendation to Multiple-Query Search Sessions for Talent Search**  
 Mesut Kaya, Toine Bogers  
+[Video](./videos#towards-comparing-recommendation-to-multiple-query-sessions-for-talent-search)
+
 
 **Recommender Systems Are Not Everything: Towards a Broader Perspective in Recommender Evaluation**  
 Benedikt Loepp  
@@ -47,6 +49,8 @@ Lukas Wegmeth, Joeran Beel
 
 **Should Algorithm Evaluation Extend to Testing? We Think So**  
 Lien Michiels, Robin Verachtert, Kim Falk, Bart Goethals  
+[Video](./videos#should-algorithm-evaluation-extend-to-testing-we-think-so)
+
 
 **Multi-domain news recommender systems at Globo: Challenges, Approaches and Evaluation Metrics**  
 Joel Pinho Lucas, Letícia Freire de Figueiredo, Felipe Alves Ferreira  
