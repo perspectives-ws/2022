@@ -53,4 +53,10 @@ Lien Michiels, Robin Verachtert, Kim Falk, Bart Goethals
 
 <br>
 
+## Multi-domain news recommender systems at Globo: Challenges, Approaches and Evaluation Metrics  
+Joel Pinho Lucas, Letícia Freire de Figueiredo, Felipe Alves Ferreira  
+{{< video library="1" src="globo.mp4" controls="yes" width="200px" height="150px">}}  
+
+<br>
+
 *To be continued...*
