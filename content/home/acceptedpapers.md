@@ -21,6 +21,7 @@ title = "Accepted Contributions"
 
 **Learning Choice Models for Simulating Users' Interactions with Recommender Systems**  
 Naieme Hazrati, Francesco Ricci  
+[Video](./videos#learning-choice-models-for-simulating-users-interactions-with-recommender-systems)
 
 **Towards Comparing Recommendation to Multiple-Query Search Sessions for Talent Search**  
 Mesut Kaya, Toine Bogers  

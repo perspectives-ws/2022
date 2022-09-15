@@ -17,6 +17,12 @@ title = "Videos of Accepted Contributions"
 
 <br>
 
+## Learning Choice Models for Simulating Users' Interactions with Recommender Systems  
+Naieme Hazrati, Francesco Ricci  
+{{< youtube "QfhGmyXw3cI" >}}  
+
+<br>
+
 ## Towards Comparing Recommendation to Multiple-Query Search Sessions for Talent Search  
 Mesut Kaya, Toine Bogers  
 {{< video library="1" src="Kaya_Bogers_Perspectives_Teaser.mp4" controls="yes" width="200px" height="150px">}}  
