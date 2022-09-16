@@ -13,12 +13,12 @@ main:
   - name: Important Dates
     url: '#dates'
     weight: 30
-  #- name: Program
-  #  url: '#program'
-  #  weight: 40
-  #- name: Keynote
-  #  url: '#keynote'
-  #  weight: 50
+  - name: Program
+    url: '#program'
+    weight: 40
+  - name: Keynote
+    url: '#keynote'
+    weight: 50
   - name: Accepted Contributions
     url: '#acceptedpapers'
     weight: 60

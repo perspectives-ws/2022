@@ -3,7 +3,7 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 weight = 30
-active = false
+active = true
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Keynote"
@@ -13,10 +13,15 @@ title = "Keynote"
   columns = "1"
 +++
 
-### Keynote: "Title"
-Speaker
+### Keynote: TBA
+Kim Falk
+
+
+
+
 
 **Abstract**     
-
+TBA
 
 **Bio**  
+Kim Falk is a Staff Recommender Engineer at Shopify, where he is the technical lead of the Product Recommendations team. Kim has experience in machine learning but is specialized in Recommender systems. Has previously worked on recommenders for customers like BT and RTL+. Worked on personalizing at IKEA. He is author of Practical Recommender Systems {{< figure src="kimfalk.jpg" caption="Kim Falk" numbered="false" >}}
