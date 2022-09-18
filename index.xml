@@ -20,6 +20,12 @@
 &lt;/div>
 &lt;/p>
 &lt;br>
+&lt;h2 id="diversifying-sentiments-in-news-recommendation">Diversifying Sentiments in News Recommendation&lt;/h2>
+&lt;p>Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Julia Neidhardt&lt;br>
+&lt;video controls >
+&lt;source src="https://perspectives-ws.github.io/2022/2022/media/sertkan_news_recommendation.mp4" type="video/mp4">
+&lt;/video>&lt;/p>
+&lt;br>
 &lt;h2 id="are-we-forgetting-something-correctly-evaluate-a-recommender-system-with-an-optimal-training-window">Are We Forgetting Something? Correctly Evaluate a Recommender System With an Optimal Training Window&lt;/h2>
 &lt;p>Robin Verachtert, Lien Michiels, Bart Goethals&lt;br>
 &lt;video controls >
