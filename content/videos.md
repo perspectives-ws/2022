@@ -35,6 +35,12 @@ Benedikt Loepp
 
 <br>
 
+## Diversifying Sentiments in News Recommendation  
+Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Julia Neidhardt  
+{{< video library="1" src="sertkan_news_recommendation.mp4" controls="yes" width="200px" height="150px">}}  
+
+<br>
+
 ## Are We Forgetting Something? Correctly Evaluate a Recommender System With an Optimal Training Window  
 Robin Verachtert, Lien Michiels, Bart Goethals  
 {{< video library="1" src="Verachtert_AreWeForgettingSomething.mp4" controls="yes" width="200px" height="150px">}}  
