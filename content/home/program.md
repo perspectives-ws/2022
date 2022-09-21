@@ -15,7 +15,9 @@ title = "Program"
 
 Please watch the [videos](videos)  of the accepted papers *before* the workshop takes place. There will be no time at the workshop to view videos, instead we will focus on discussion and active participation.
 
-### Thursday, September 22nd, 2022, 09:00-17:00 CEST (hybrid)
+### Thursday, September 22nd, 2022, 09:00-17:00
+
+#### Part 1 (hybrid): Ballroom B
 
 **09:00-09:20** Welcome & Introduction  
 **09:20-10:10** [Keynote](#keynote) & Q&A: Kim Falk  
@@ -29,6 +31,8 @@ Please watch the [videos](videos)  of the accepted papers *before* the workshop 
 **12:10-12:30** Wrap up  
 
 **12:30-14:00** Lunch Break  
+
+#### Part 2 (onsite only), Room Cedar
 
 **14:00-16:30** Open round-table discussion  
 **16:30-17:00** Wrap up  
