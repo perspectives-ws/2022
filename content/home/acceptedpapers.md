@@ -15,7 +15,9 @@ title = "Accepted Contributions"
 
 [All Teaser Videos](./videos) on a single page.
 
-*We continuously update this page with the teaser videos for the accepted contributions.*
+[Extended abstract](https://doi.org/10.1145/3523227.3547408) about the workshop as part of the RecSys proceedings.
+
+[Proceedings](http://ceur-ws.org/Vol-3228/) (ceur-ws).
 
 ### Accepted Papers
 
