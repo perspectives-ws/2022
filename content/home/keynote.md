@@ -18,4 +18,4 @@ Kim Falk
 
 
 **Bio**  
-Kim Falk is a Staff Recommender Engineer at Shopify, where he is the technical lead of the Product Recommendations team. Kim has experience in machine learning but is specialized in Recommender systems. Has previously worked on recommenders for customers like BT and RTL+. Worked on personalizing at IKEA. He is author of Practical Recommender Systems {{< figure src="kimfalk.jpg" caption="Kim Falk" numbered="false" >}}
+Kim Falk is a Staff Recommender Engineer at Shopify, where he is the technical lead of the Product Recommendations team. Kim has experience in machine learning but is specialized in Recommender systems. Has previously worked on recommenders for customers like BT and RTL+. Worked on personalizing at IKEA. He is author of Practical Recommender Systems. {{< figure src="kimfalk.jpg" caption="Kim Falk" numbered="false" >}}
