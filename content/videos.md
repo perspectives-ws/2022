@@ -13,10 +13,6 @@ title = "Videos of Accepted Contributions"
   columns = "1"
 +++
 
-*We continuously update this page with the videos of accepted papers and abstracts.*
-
-<br>
-
 ## Learning Choice Models for Simulating Users' Interactions with Recommender Systems  
 Naieme Hazrati, Francesco Ricci  
 {{< youtube "QfhGmyXw3cI" >}}  
@@ -62,7 +58,3 @@ Lien Michiels, Robin Verachtert, Kim Falk, Bart Goethals
 ## Multi-domain news recommender systems at Globo: Challenges, Approaches and Evaluation Metrics  
 Joel Pinho Lucas, Letícia Freire de Figueiredo, Felipe Alves Ferreira  
 {{< video library="1" src="globo.mp4" controls="yes" width="200px" height="150px">}}  
-
-<br>
-
-*To be continued...*
