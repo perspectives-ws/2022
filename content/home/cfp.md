@@ -47,7 +47,7 @@ Submissions will undergo single-blind peer review by a minimum of three program 
 
 
 ### Abstract Submissions
-We solicit abstracts with 200-350 words, to be submitted through the workshop’s EasyChair EasyChair page at https://easychair.org/conferences/?conf=perspectives2022.
+We solicit abstracts with 200-350 words, to be submitted through the workshop’s EasyChair page at https://easychair.org/conferences/?conf=perspectives2022.
 
 The workshop organizers will select abstracts based on quality, clarity, relevance, and their potential to spark interesting discussion during the workshop. Authors of accepted abstracts will be invited to present their work during the workshop. 
 
