@@ -17,7 +17,7 @@ title = "Accepted Contributions"
 
 [Extended abstract](https://doi.org/10.1145/3523227.3547408) about the workshop as part of the RecSys proceedings.
 
-[Proceedings](http://ceur-ws.org/Vol-3228/) (ceur-ws).
+[Proceedings](https://ceur-ws.org/Vol-3228/) (CEUR-WS.org).
 
 ### Accepted Papers
 
